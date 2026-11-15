@@ -20,7 +20,7 @@ This provider supports managing the following role configurations:
 
 ## Quick Starts
 
-* [Provider Documentation](https://registry.terraform.io/providers/anhpngt/pgrole/latest/docs)
+* [Provider Documentation](https://registry.terraform.io/providers/goelankitt/pgrole/latest/docs)
 
 ## Requirements
 
